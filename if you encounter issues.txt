@@ -1,0 +1,10 @@
+POSSIBLE ISSUES:
+
+If there are no meetups/ a blank meetup card when starting the project:
+-please create a new firebase project
+-go into the build tab
+-select realtime database
+-ensure that you select "Start in Test Mode" so that you can send API requests
+
+If images are not coming up on the cards:
+-ensure that you copy the image address, not link address
